@@ -13,10 +13,9 @@ import static com.google.common.base.Preconditions.checkNotNull;
  * @Filename: DateUtil.java
  * @Description:
  * @Version: 1.0
- * @Author: peigen
- * @Email: peigen@yiji.com
- * @History:<br> <li>Author: peigen</li> <li>Date: 2011-8-2</li> <li>Version:
- * 1.0</li> <li>Content: create</li>
+ * @Author: 
+ * @Email:
+ * @History:
  */
 public class DateUtil {
     /**
